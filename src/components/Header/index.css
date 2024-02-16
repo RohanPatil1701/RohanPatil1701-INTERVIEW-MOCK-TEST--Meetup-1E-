@@ -1,0 +1,10 @@
+.nav-container {
+  background-color: transparent;
+  height: 10vh;
+  width: 100%;
+}
+
+.web-logo {
+  margin-left: 20px;
+  margin-top: 20px;
+}
